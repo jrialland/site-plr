@@ -3041,4 +3041,7 @@ img#wpstats {
 	.commentlist .children > li.bypostauthor > article .comment-meta {
 		color: #666;
 	}
+#site-generator {
+    display:none;
+}
 }
